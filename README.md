@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="jjean-dev-logo-v1-02.png" width="300px">
+    <img src="https://raw.githubusercontent.com/jjeanjacques10/jjeanjacques10/master/jjean-dev-logo-v1-02.png" width="300px">
   </a>
 </p>
 
