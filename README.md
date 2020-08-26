@@ -10,7 +10,7 @@
 My name is Jean Jacques, I'm Data Analytics Intern. I have a YouTube channel where I create content about development and a blog on Medium where I write articles about technology and its use in education. I am enthusiastic about artificial intelligence and I am passionate about the use of technology in education. I develop projects that help students and teachers. <br> <br>
 
 💻 I’m currently working Data Analytics at [OKN Group](http://www.okngroup.com.br/)<br>
-📚 I'm studying Cloud, IA and programming languages Python, JavaScrip<br>
+📚 I'm studying Cloud, AI, programming languages Python and JavaScrip<br>
 👨‍💻 I'm graduating in Information Systems by [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)<br>
 
