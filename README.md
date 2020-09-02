@@ -21,8 +21,8 @@ My name is Jean Jacques, I'm Data Analytics Intern. I have a YouTube channel whe
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html&layout=compact" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS&layout=compact&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
