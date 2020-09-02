@@ -16,3 +16,13 @@ My name is Jean Jacques, I'm Data Analytics Intern. I have a YouTube channel whe
 
 
 ### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) ![flask](https://img.shields.io/badge/-flask-000000?style=flat&logoColor=white&logo=flask)
+
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true" /></td>
+    </tr>   
+  </table>
+</center>
