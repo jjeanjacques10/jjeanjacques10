@@ -7,7 +7,7 @@
 My name is Jean Jacques, I'm a Software Developer. I am passionate about the use of technology in education and I develop projects that help students and teachers. I create some contents about development in my YouTube channel and my blog on Medium. I am enthusiastic about artificial intelligence and back-end development. <br> <br>
 
 💻 Working with Software Development and Data Analytic at [OKN Group](http://www.okngroup.com.br/)<br>
-📚 Studying Cloud, AI, PowerBI, Python and JavaScript<br>
+📚 Studying Cloud, PowerBI, Typescript, Python and JavaScript<br>
 👨‍💻 Graduating in Information Systems by [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 I'm a [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)<br>
 </p>
