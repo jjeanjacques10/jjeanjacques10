@@ -4,10 +4,10 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
-My name is Jean Jacques, I'm a Software Developer. I am passionate about the use of technology in education and I develop projects that help students and teachers. I create some contents about development in my YouTube channel and my blog on Medium. I am enthusiastic about artificial intelligence and back-end development. <br> <br>
+My name is Jean Jacques, I'm a Software Engineer. I am passionate about the use of technology in education and I develop projects that help students and teachers. I create some contents about development in my YouTube channel and my blog on Medium. I am enthusiastic about artificial intelligence and back-end development. <br> <br>
 
-💻 Working with Software Development at [OKN Group](http://www.okngroup.com.br/)<br>
-📚 Studying Cloud, PowerBI, Typescript, Python and JavaScript<br>
+💻 IT Engineering Analyst at [Itaú Unibanco](https://www.itau.com.br/)<br>
+📚 Studying AWS, Azure, Spring Boot, Typescript and Python<br>
 👨‍💻 Graduating in Information Systems at [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 I'm a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/3841)<br>
 </p>
