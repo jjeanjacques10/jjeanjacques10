@@ -4,15 +4,15 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
-My name is Jean Jacques, I'm a Software Engineer. I am passionate about the use of technology in education and I develop projects that help students and teachers. I create some contents about development in my YouTube channel and my blog on Medium. I am enthusiastic about artificial intelligence and back-end development. <br> <br>
+My name is Jean Jacques, I'm a Software Engineer. I am passionate about the use of technology in education and I develop projects that help students and teachers. I create some contents about development in my YouTube channel and my blog on Medium. I am enthusiastic about artificial intelligence and software engineering. <br> <br>
 
 💻 Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
-📚 Studying AWS, Azure, Spring Boot, Typescript and Python<br>
+📚 Studying Spring Boot, Clean Architecture, AWS and Python<br>
 👨‍💻 Graduating in Information Systems at [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 I'm a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/3841)<br>
 </p>
 
-### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) ![flask](https://img.shields.io/badge/-flask-000000?style=flat&logoColor=white&logo=flask)
+### My skills: <br/> <br/> ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) ![flask](https://img.shields.io/badge/-flask-000000?style=flat&logoColor=white&logo=flask)
 
 
 <center>
