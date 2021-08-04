@@ -4,7 +4,7 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
-My name is Jean Jacques, I'm a software engineer. I'm passionate about making open-source and education technology. Current, I'm a content creator about development as a Gold Microsoft Student Ambassador. I have been learning about Software Architecture, Java Spring and Cloud Technology. <br> <br>
+I'm a software engineer. I'm passionate about making open-source and education technology. Current, I'm a content creator about development as a Gold Microsoft Student Ambassador. I have been learning about Software Architecture, Java Spring and Cloud Technology. <br> <br>
 
 💻 Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
 📚 Studying Spring Boot, Clean Architecture, AWS and Python<br>
