@@ -4,10 +4,10 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left"> 
-Software Engineer and content creator. In the last year of the Information Systems course at FIAP. Gold Microsoft Learn Student Ambassador, I've been sharing knowledge through articles, videos and lectures on technology and education topics. I have been learning about Software Architecture, Java Spring and Cloud Technology. <br> <br>
+Hi, my name is Jean Jacques Barros! I like to share knowledge and solve problems. In my view, technology is a means to achieve these goals. I currently work as a Software Engineer in a Brazilian Bank. I've been dedicating my time to creating content about technology in my Blog/GitHub and learning about Microservices, Java Spring, and Cloud Technologies (AWS and Azure). <br> <br>
 
 💻 Software Engineer at [Itaú Unibanco](https://www.itau.com.br/)<br>
-📚 Studying Spring Boot, Clean Architecture, AWS and Python<br>
+📚 Studying Spring Framework, Microservices, Clean Code, AWS and Python<br>
 👨‍💻 Graduated in Information Systems at [FIAP](https://www.fiap.com.br/)<br>
 🐱‍💻 3 years as a [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/3841)<br>
 </p>
