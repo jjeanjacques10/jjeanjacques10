@@ -5,7 +5,7 @@
 <img src="./jjean-dev-logo-v1-04.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo jjean_dev png">
 
 <p align="left">
-Senior Software Engineer with 6+ years of experience building mission-critical distributed systems for the financial sector. Passionate about process optimization, technical leadership, and mentoring, with a deep focus on scalable and resilient cloud architectures. I enjoy sharing knowledge through <a href="https://jjeanjacques10.medium.com">tech articles</a> and conference talks.
+Staff Software Engineer with 7+ years of experience building mission-critical distributed systems for the financial sector. Passionate about process optimization, technical leadership, and mentoring, with a deep focus on scalable and resilient cloud architectures. I enjoy sharing knowledge through <a href="https://jjeanjacques10.medium.com">tech articles</a> and conference talks.
 <br>
 <br>
 
