@@ -1,4 +1,4 @@
-### Hello, World! I'm Jean Jacques. 🌎
+## Hello, World! I'm Jean Jacques 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjean-jacques10/)](https://www.linkedin.com/in/jjean-jacques10/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jjeanjacques10/)](https://github.com/jjeanjacques10/) [![Medium](https://img.shields.io/badge/-Medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jjeanjacques10.medium.com)](https://jjeanjacques10.medium.com) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A)](https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A) [![Instagram](https://img.shields.io/badge/-Instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/jjean_dev) ![](https://komarev.com/ghpvc/?username=jjeanjacques10)
 
@@ -50,27 +50,27 @@ Staff Software Engineer with 7+ years of experience building mission-critical di
       <td>
         <picture>
          <source
-           srcset="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true&theme=dark"
+           srcset="https://github-stats-extended.vercel.app/api?username=jjeanjacques10&show_icons=true&theme=dark"
            media="(prefers-color-scheme: dark)"
          />
          <source
-           srcset="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true"
+           srcset="https://github-stats-extended.vercel.app/api?username=jjeanjacques10&show_icons=true"
            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-         <img src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true" />
+         <img src="https://github-stats-extended.vercel.app/api?username=jjeanjacques10&show_icons=true" />
        </picture>
       </td>
       <td>
         <picture>
          <source
-           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&theme=dark&layout=compact&langs_count=10&hide=html,tsql,scss,css"
+           srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&theme=dark&layout=compact&langs_count=10&hide=html,tsql,scss,css"
            media="(prefers-color-scheme: dark)"
          />
          <source
-           srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css"
+           srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css"
            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" />
+         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jjeanjacques10&show_icons=true&layout=compact&langs_count=10&hide=html,tsql,scss,css" />
        </picture>
       </td>
     </tr>   
