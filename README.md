@@ -10,7 +10,7 @@ Staff Software Engineer with 7+ years of experience building mission-critical di
 <br>
 
 - 💻 **Staff Software Engineer** at **[Itaú Unibanco](https://www.itau.com.br/)**
-- 🔭 My main focus is on **Distributed Systems**, **Cloud-Native Architectures**, and **Event-Driven Design**.
+- 🔭 I'm working with **Distributed Systems**, **Cloud-Native Architectures**, and **Event-Driven Design**.
 - 🎓 **MBA in Cloud & Architecture** from **[FIAP](https://www.fiap.com.br/)**
 - 📄 **Certified AWS Solutions Architect** & **AWS Practitioner Certification**
 - 🎤 Speaker at events like **[The Developers Conference (TDC)](https://thedevconf.com/palestrante/jean-jacques-barros)**
